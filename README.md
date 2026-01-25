@@ -130,6 +130,20 @@ This section is used to generate and manage customer bills.
 | Platform | Windows |
 
 ---
+## 🗄️Database
+
+• Database Name: 
+  - mybookdb
+    
+• Tables:
+  - books
+  - bills
+  - bill_details
+
+Only database structure is provided.
+
+
+---
 ## 📸 Screenshots
 
 <img width="625" height="535" alt="image" src="https://github.com/user-attachments/assets/aa1d14d5-1f03-4e5d-a7dd-3832f76000cd" />
